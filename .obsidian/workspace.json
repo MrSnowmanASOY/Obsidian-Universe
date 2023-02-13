@@ -1,46 +1,18 @@
 {
   "main": {
-    "id": "484ac04ff1f06ed7",
+    "id": "703bd4dc94b27265",
     "type": "split",
     "children": [
       {
-        "id": "6e93109d9694d681",
+        "id": "b504530a9b11bdb1",
         "type": "tabs",
         "children": [
           {
-            "id": "5baf67db20497702",
+            "id": "cb26e1fb28e93340",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pilstensia/Planets/Winsforl.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef3071291b3f8c3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pilstensia/Planets/Altreya.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5ab0f4c9a6181fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pilstensia/Planets/Winsforl.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d01768d2d3ee3c3f",
+    "id": "18d3241f3d66e1ed",
     "type": "split",
     "children": [
       {
-        "id": "1cf58bbf84546c83",
+        "id": "d216b9d662249d5f",
         "type": "tabs",
         "children": [
           {
-            "id": "e3dc42c0355227f3",
+            "id": "954919f379f42919",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -67,12 +39,12 @@
             }
           },
           {
-            "id": "1820ed1274a80937",
+            "id": "d6e6726d978a1a2c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Material",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +54,7 @@
             }
           },
           {
-            "id": "005f5e19aad10dd6",
+            "id": "29bf50916e9fa9cd",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -96,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "a124224f9625eb88",
+    "id": "a65dcc70f1b01e64",
     "type": "split",
     "children": [
       {
-        "id": "781232276c3257ca",
+        "id": "401d32fc71233d4c",
         "type": "tabs",
         "children": [
           {
-            "id": "8417dd5271649200",
+            "id": "44744d1d872007c6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pilstensia/Planets/Winsforl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,19 +92,18 @@
             }
           },
           {
-            "id": "9f9fa31a512cd25c",
+            "id": "9064f0005d6db61f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pilstensia/Planets/Winsforl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "70af291bf0da6289",
+            "id": "7aa9cbdeca9a6077",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,25 +114,14 @@
             }
           },
           {
-            "id": "09b5b3f0ffffcc96",
+            "id": "01b64aa349689b59",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pilstensia/Planets/Winsforl.md"
-              }
-            }
-          },
-          {
-            "id": "18f0f244673fd152",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,25 +130,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "5baf67db20497702",
-  "lastOpenFiles": [
-    "Materials/Tempheth.md",
-    "Materials/Renthoy.md",
-    "Pilstensia/Planets/Altreya.md",
-    "Materials/Black Hymthon.md",
-    "Pilstensia/Planets/Winsforl.md",
-    "Hermosa/Hermosa.md",
-    "Creation Logicboard.canvas",
-    "Gods/Ophelia.md",
-    "Gods/Lizz.md",
-    "Constellations/The Creation.png"
-  ]
+  "active": "cb26e1fb28e93340",
+  "lastOpenFiles": []
 }
