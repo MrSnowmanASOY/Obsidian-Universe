@@ -8,40 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5baf67db20497702",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Creation Logicboard.canvas",
-                "viewState": {
-                  "x": 183.111024993338,
-                  "y": 533.5305401007261,
-                  "zoom": -2.506221578636405,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
             "id": "ef3071291b3f8c3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Pilstensia/Planets/Altreya.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5ab0f4c9a6181fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pilstensia/Planets/Winsforl.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Creation Logicboard.canvas",
+                "file": "Pilstensia/Planets/Altreya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Creation Logicboard.canvas",
+                "file": "Pilstensia/Planets/Altreya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creation Logicboard.canvas"
+                "file": "Pilstensia/Planets/Altreya.md"
               }
             }
           },
@@ -183,15 +155,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5baf67db20497702",
+  "active": "ef3071291b3f8c3d",
   "lastOpenFiles": [
+    "Creation Logicboard.canvas",
     "Pilstensia/Planets/Winsforl.md",
     "Materials/Tempheth.md",
     "Materials/Renthoy.md",
     "Pilstensia/Planets/Altreya.md",
     "Materials/Black Hymthon.md",
     "Hermosa/Hermosa.md",
-    "Creation Logicboard.canvas",
     "Gods/Ophelia.md",
     "Gods/Lizz.md",
     "Constellations/The Creation.png"
