@@ -20,6 +20,10 @@ Environment:
 	Surface temperature of ~350°c during the night and ~500°c during the day.
 	No living inhabitants
 
+Visual:
+	![[Winsforl.gif]]
+
+
 ---
 #Snowman #Pilstensia #ThePilston #Planet 
 

@@ -20,6 +20,9 @@ Environment:
 	No day/night cycle
 	No living inhabitants 
 
+Visual:
+	![[Altreya.gif]]
+
 ---
 #Snowman #Pilstensia #ThePilston #Planet #BlackHymthon #Tempheth #Renthoy #Altreya
 
