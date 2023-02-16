@@ -14,6 +14,6 @@ Constellation:
 	![[The Creation.png]]
 
 ---
-#Ophelia #Godess #TheCreation 
+#Ophelia #Goddess #TheCreation 
 
 ---

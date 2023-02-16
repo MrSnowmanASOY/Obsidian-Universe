@@ -17,7 +17,7 @@ Description:
 Environment:
 	Rocky and covered with rare gemstones.
 	Surface temperatures raising from 1000°c.
-	No day/night cycle
+	Sky is always dark
 	No living inhabitants 
 
 Visual:

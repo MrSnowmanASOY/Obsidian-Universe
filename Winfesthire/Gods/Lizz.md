@@ -16,6 +16,6 @@ Constellation:
 	![[The Creation.png]]
 
 ---
-#Lizz #Godess #TheCreation
+#Lizz #Goddess #TheCreation
 
 ---
