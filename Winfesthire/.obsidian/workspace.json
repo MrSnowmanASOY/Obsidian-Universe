@@ -42,9 +42,141 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "48904887dfe341a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods/CHAT GPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4453886e65f9c413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Astraia/Astraia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7166f36d5562a96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Astraia/Planets/Aeloria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b34bcaa65469601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Astraia/Planets/Borealis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfc9b0d5da378f89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Astraia/Planets/Celeria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65dcbdd1d14a1a2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Astraia/Planets/Drakara.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8f7cda67910f1c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Astraia/Planets/Elyndor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69a1fa681a20da81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Astraia/Planets/Faestria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c9aeaa0996048a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Astraia/Planets/Gaiadon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d051f52b9c9df53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Astraia/Astraia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8534a1c2d033fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Astraia/Planets/Aeloria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -110,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Black Hymthon.md",
+                "file": "Astraia/Planets/Aeloria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Black Hymthon.md",
+                "file": "Astraia/Planets/Aeloria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Black Hymthon.md"
+                "file": "Astraia/Planets/Aeloria.md"
               }
             }
           },
@@ -180,17 +312,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef0037291501ed5e",
+  "active": "f8534a1c2d033fb1",
   "lastOpenFiles": [
-    "Pilstensia/Planets/Quansef.md",
-    "Pilstensia/Planets/Postensem.md",
-    "Pilstensia/Planets/Altreya.md",
-    "Pilstensia/Planets/Phototonn.md",
-    "Pilstensia/Planets/Planet Images/Postensem.gif",
-    "Materials/Tempheth.md",
-    "INteresing Names.md",
-    "Gods/Ophelia.md",
-    "Gods/Jayden.md",
-    "Gods/Lizz.md"
+    "Astraia/Astraia.md",
+    "Astraia/Planets/Aeloria.md",
+    "Astraia/Planets/Iridion.md",
+    "Astraia/Planets/Hestiax.md",
+    "Astraia/Planets/Gaiadon.md",
+    "Astraia/Planets/Faestria.md",
+    "Astraia/Planets/Elyndor.md",
+    "Astraia/Planets/Drakara.md",
+    "Astraia/Planets/Celeria.md",
+    "Astraia/Planets/Borealis.md"
   ]
 }
